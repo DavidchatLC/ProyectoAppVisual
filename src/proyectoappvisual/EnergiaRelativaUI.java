@@ -22,6 +22,7 @@ public class EnergiaRelativaUI extends javax.swing.JFrame {
     
     public EnergiaRelativaUI() {
         initComponents();
+        System.out.println("Mensaje de prueba");
     }
 
     /**
